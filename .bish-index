@@ -1,0 +1,17 @@
+./setup.py
+./AGENTS.md
+./scrapy_cdr/es_download.py
+./scrapy_cdr/es_download_hashes.py
+./scrapy_cdr/kafka_upload.py
+./scrapy_cdr/utils.py
+./scrapy_cdr/__init__.py
+./scrapy_cdr/v2_to_v3.py
+./scrapy_cdr/media_pipeline.py
+./scrapy_cdr/items.py
+./scrapy_cdr/es_upload.py
+./tests/utils.py
+./tests/conftest.py
+./tests/test_items.py
+./tests/test_media_pipeline.py
+./tests/__init__.py
+./tests/mockserver.py
